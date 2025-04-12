@@ -26,7 +26,7 @@
 
 ## 📫 Contact
 
-- 📧 sunny.sahu@example.com <!-- Replace this -->
+- 📧 contact@bitcoinleef.com
 - 🌐 Portfolio coming soon...
 
 ---
