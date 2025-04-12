@@ -1,5 +1,6 @@
-- Welcome to my profile
-<h1>Hello I'm Sunny Sahu From Jamshedpur, Jharkhand</h1>
+# 👋 Welcome to my profile
+
+<h1>Hello, I'm Sunny Sahu from Jamshedpur, Jharkhand</h1>
 
 ## 💻 About Me
 
