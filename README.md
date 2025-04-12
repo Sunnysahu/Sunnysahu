@@ -20,7 +20,7 @@
 
 ## 🚀 Projects & Goals
 
-- 🔨 Dockerizing .NET apps and deploying using Jenkins pipelines
+- 🔨 Dockerizing .NET Core apps and deploying using Jenkins pipelines
 - 🧪 Automating infrastructure setup with Ansible playbooks
 - 🧠 Exploring Python for scripting and automation
 - 🌍 Building fast, responsive frontends using React and Tailwind
