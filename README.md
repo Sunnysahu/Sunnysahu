@@ -12,7 +12,7 @@
 
 | Category          | Tools & Technologies |
 |-------------------|----------------------|
-| 💻 Programming     | C#, JavaScript, Python |
+| 💻 Programming     | C++, C#, JavaScript, Python |
 | 🌐 Frontend        | React.js, Tailwind CSS, Vite |
 | 🗄️ Backend         | .NET, Node.js        |
 | 🧮 Databases       | MySQL Server, MongoDB |
