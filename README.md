@@ -27,7 +27,7 @@
 
 ## 📫 Contact
 
-- 📧 contact@bitcoinleef.com / sunnysahu8210@gmail.com / +91 8210688460
+- 📧 contact@bitcoinleef.com / sunnysahu8210@gmail.com / http://wa.me/+918210688460
 - 🌐 Portfolio coming soon...
 
 ---
